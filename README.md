@@ -44,11 +44,11 @@ I prototype in Figma, work in sprints, and ship through Git/GitHub with clear do
 
 ## A few things I've built
 
-- 🔬 **ResearchAssist**: RAG-powered document Q&A tool; upload PDFs and ask questions in plain English using a local LLM, ChromaDB vector search, LangChain, and Ollama. Everything runs locally, so your data stays private and no API keys are needed
+- 🔬 **[ResearchAssist](https://github.com/namya-singh/researchassist)**: RAG-powered document Q&A tool; upload PDFs and ask questions in plain English using a local LLM, ChromaDB vector search, LangChain, and Ollama. Everything runs locally, so your data stays private and no API keys are needed
 - 🎮 **[Adversarial Maze Navigation](https://github.com/namya-singh/FAI_Final_Project)**: multi-agent AI system in Python with 9 algorithms (Minimax, Alpha-Beta, LRTA*, A* and more), dynamic environments, and a custom benchmarking framework
 - 📊 **[Beyond Blood Sugar](https://github.com/namya-singh/beyond-blood-sugar)**: analyzed 737K CDC BRFSS respondents across 2014 and 2022 to track how America's diabetes risk landscape shifted; built an ETL-style pipeline in R and used logistic regression, GMM clustering, Random Forest, and SHAP
 - 📚 **[Kambaz](https://github.com/namya-singh/kambaz-react-web-app)**: full-stack Canvas replica built with React, TypeScript, Node.js, Express, and MongoDB
-- 📱 **Pathly**: iOS learning app in SwiftUI with Firebase, featuring real-time instructor and student dashboards
+- 📱 **[Pathly](https://github.com/namya-singh/pathly-ios-learning-app)**: iOS learning app in SwiftUI with Firebase, featuring real-time instructor and student dashboards
 
 ---
 
